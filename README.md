@@ -324,24 +324,6 @@ MCP-based tools.
 
 ---
 
-# 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/sushant1427/sushant1427/output/github-contribution-grid-snake.svg)
-
----
-
-# 📈 GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sushant1427\&theme=tokyo-night\&hide_border=true)
-
----
-
-# 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sushant1427\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=4)
-
----
-
 # 📫 Let's Connect
 
 <p align="left">
